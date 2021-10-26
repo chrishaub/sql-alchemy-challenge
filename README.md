@@ -8,8 +8,6 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 Used Python and SQLAlchemy to do basic climate analysis and data exploration of the climate database. All of the following analysis was completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
 
-* Used the provided [starter notebook](climate_starter.ipynb) and [hawaii.sqlite](Resources/hawaii.sqlite) files to complete climate analysis and data exploration.
-
 * Chose a start date and end date for trip. 
 
 * Used SQLAlchemy `create_engine` to connect to your sqlite database.
